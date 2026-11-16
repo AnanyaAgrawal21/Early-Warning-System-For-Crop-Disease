@@ -1,0 +1,4 @@
+Confusion matrix:
+[[164  35]
+ [ 17  24]]
+ROC-AUC: 0.7429
